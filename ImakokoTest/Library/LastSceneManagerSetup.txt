@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Sceen/Imakoko.unity
+  isLoaded: 1
+  isActive: 1
